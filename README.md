@@ -2,7 +2,7 @@
 
 ### Prints the requested lines from both sides of the provided file
 
-It's an attempt in my rust journey, not optimized for large files and for now only works for one file.
+An attempt in my journey through rust. Of course not optimized for large files.
 
 I wrote it for Rust 0.9. Compile with:
 
