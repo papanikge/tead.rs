@@ -1,11 +1,19 @@
-#tead.rs
+tead.rs
 
-### Prints the requested lines from both sides of the provided file
+### A tiny program that prints the requested lines from both sides of the provided file
 
-An attempt in my journey through rust. Of course not optimized for large files.
+An attempt in my journey through rust.  
+I'll trying to kinda optimize it for large files.
 
-I wrote it for Rust 0.9. Compile with:
+
+Originally wrote it for Rust 0.9.  
+Now compiles with 1.22.
+
+Compile with:
 
 ```
-rustc src/tead.rs -o tead
+cargo build
 ```
+
+### Author
+George 'papanikge' Papanikolaou
