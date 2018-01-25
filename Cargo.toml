@@ -1,0 +1,7 @@
+[package]
+name = "tead"
+version = "1.1.0"
+authors = ["George Papanikolaou <gpapanikolaou@skroutz.gr>"]
+
+[dependencies]
+getopts = "0.2"
